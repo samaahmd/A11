@@ -1,0 +1,38 @@
+a {
+  text-decoration: none;
+}
+section {
+  background-image: url(../img/banner.png);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat ;
+}
+
+.forecast-header{
+  background: rgba(50, 48, 48, 0.1);
+}
+.forecast{
+  background-color: #24252e;
+}
+.social li{
+  width: 30px;
+  height: 30px;
+  border-radius: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.custom{
+  color: #009ad8;
+}
+#forecast{
+  color:#aaabb1 ;
+}
+.submit{
+bottom: 0px;
+padding: 6.5px 35px;
+border-radius: 30px;
+}
+.form-control{
+  border-radius: 30px;
+}
